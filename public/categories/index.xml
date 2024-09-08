@@ -3,5 +3,6 @@
         <title>Categories - Category - HoytXU&#39;s Blog</title>
         <link>http://localhost:1313/Blog/categories/</link>
         <description>Categories - Category - HoytXU&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/Blog/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>iridesparadox@gmail.com (HoytXU)</managingEditor>
+            <webMaster>iridesparadox@gmail.com (HoytXU)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:1313/Blog/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

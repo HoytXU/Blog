@@ -3,7 +3,7 @@
 description = "HoytXU's personal website!"
 # site keywords
 # 网站关键词
-keywords = ["Theme", "Hugo"]
+keywords = ["HoytXU", "Blog"]
 # App icon config
 # 应用图标配置
 [app]
@@ -14,7 +14,7 @@ keywords = ["Theme", "Hugo"]
   typeit = true 
   # whether to omit favicon resource links
   # 是否隐藏网站图标资源链接
-  noFavicon = false
+  noFavicon = true 
   # modern SVG favicon to use in place of older style .png and .ico files
   # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
   svgFavicon = ""
@@ -77,7 +77,7 @@ keywords = ["Theme", "Hugo"]
     enable = true
     # Gravatar Email for preferred avatar in home page
     # Gravatar 邮箱，用于优先在主页显示的头像
-    gravatarEmail = "iridesparadox@gmail.com"
+    # gravatarEmail = "iridesparadox@gmail.com"
     # URL of avatar shown in home page
     # 主页显示头像的 URL
     avatarURL = "/images/avatar.webp"
@@ -86,10 +86,10 @@ keywords = ["Theme", "Hugo"]
     avatarLinkURL = ""
     # title shown in home page (HTML format is supported)
     # 主页显示的网站标题 (支持 HTML 格式)
-    title = ""
+    title = "HoytXU's Blog"
     # subtitle shown in home page
     # 主页显示的网站副标题
-    subtitle = "Coding is my way of expressing~"
+    subtitle = "Coding is my tool of expressing~ ✍️"
     # whether to use typeit animation for subtitle
     # 是否为副标题显示打字机动画
     typeit = true 
@@ -127,7 +127,7 @@ keywords = ["Theme", "Hugo"]
   Foursquare = ""
   FreeCodeCamp = ""
   Gitea = ""
-  GitHub = "https://github.com/HoytXU"
+  GitHub = "HoytXU"
   Gitlab = ""
   Goodreads = ""
   Googlescholar = ""
@@ -154,7 +154,7 @@ keywords = ["Theme", "Hugo"]
   Quora = ""
   Reddit = ""
   Researchgate = ""
-  RSS = true
+  RSS = false 
   Skype = ""
   Slidershare = ""
   Snapchat = ""
@@ -179,12 +179,12 @@ keywords = ["Theme", "Hugo"]
   Youtubecustom = ""
   Youtubelegacy = ""
   Zhihu = ""
-  [social.Mastodon]
-    id = "@xxxx"
-    prefix = "https://mastodon.technology/"
-  [social.Diaspora]
-    id = "@xxxx"
-    prefix = "https://yyyy/"
+#  [social.Mastodon]
+#    id = "@xxxx"
+#    prefix = "https://mastodon.technology/"
+#  [social.Diaspora]
+#    id = "@xxxx"
+#    prefix = "https://yyyy/"
 # Sponsor config
 # 赞助设置
 [sponsor]

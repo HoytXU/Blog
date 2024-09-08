@@ -2,10 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/Blog/</loc><lastmod>2024-09-04T04:27:35&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/Blog/posts/</loc><lastmod>2024-09-04T04:27:35&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/Blog/posts/testing_2/</loc><lastmod>2024-09-04T04:27:35&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/Blog/posts/testing/</loc><lastmod>2024-09-04T03:53:16&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/Blog/posts/first_post/</loc><lastmod>2024-09-04T03:53:16&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/Blog/categories/</loc></url><url>
-            <loc>http://localhost:1313/Blog/tags/</loc></url></urlset>
+            <loc>http://localhost:1313/Blog/</loc><lastmod>2024-09-04T04:27:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/Blog/posts/</loc><lastmod>2024-09-04T04:27:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/Blog/testing_2/</loc><lastmod>2024-09-04T04:27:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/Blog/testing/</loc><lastmod>2024-09-04T03:53:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/Blog/first_post/</loc><lastmod>2024-09-04T03:53:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/Blog/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/Blog/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/Blog/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/Blog/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

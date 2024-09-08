@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens on HoytXU&#39;s blog</title>
+    <link>http://localhost:1313/blog/en/</link>
+    <description>Recent content in Ens on HoytXU&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Sep 2024 04:25:17 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing_2</title>
+      <link>http://localhost:1313/blog/en/testing_2/</link>
+      <pubDate>Wed, 04 Sep 2024 04:25:17 +0800</pubDate>
+      <guid>http://localhost:1313/blog/en/testing_2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/blog/en/testing/</link>
+      <pubDate>Mon, 02 Sep 2024 21:58:21 +0800</pubDate>
+      <guid>http://localhost:1313/blog/en/testing/</guid>
+      <description>Convex Optimization Some resourcescourse website&#xA;https://web.stanford.edu/class/ee364a/&#xA;Book&#xA;https://web.stanford.edu/~boyd/cvxbook/&#xA;CVX: matlab programming platform for Convex Programming&#xA;CVX: Matlab Software for Disciplined Convex Programming&#xA;CVX Users’ Guide — CVX Users&amp;rsquo; Guide&#xA;Lectures list&#xA;https://www.youtube.com/watch?v=McLq1hEq3UY&amp;amp;list=PL3940DD956CDF0622&amp;amp;index=1</description>
+    </item>
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/blog/en/first_post/</link>
+      <pubDate>Mon, 02 Sep 2024 11:24:40 +0800</pubDate>
+      <guid>http://localhost:1313/blog/en/first_post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

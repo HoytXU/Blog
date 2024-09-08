@@ -9,7 +9,7 @@ version = "0.3.X"
 defaultTheme = "auto"
 # public git repo url only then enableGitInfo is true
 # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-gitRepo = "https://github.com/HEIGE-PCloud/DoIt"
+gitRepo = ""
 # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
 # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
 fingerprint = ""
@@ -59,7 +59,7 @@ bundle = false
     post = ""
     # whether to use typeit animation for title name
     # 是否为标题显示打字机动画
-    typeit = false
+    typeit = true 
 
 # Footer config
 # 页面底部信息配置
@@ -83,7 +83,7 @@ bundle = false
   author = true
   # site creation time
   # 网站创立年份
-  since = 2019
+  since = 2024 
   # ICP info only in China (HTML format is supported)
   # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
   icp = ""
@@ -281,11 +281,11 @@ bundle = false
     Buffer = false
     Digg = false
     Evernote = false
-    Facebook = true
+    Facebook = false 
     Flipboard = false
-    HackerNews = true
+    HackerNews = false 
     Instapaper = false
-    Line = true
+    Line = false 
     Linkedin = false
     Mix = false
     Myspace = false
@@ -296,12 +296,12 @@ bundle = false
     Renren = false
     Skype = false
     Stumbleupon = false
-    Telegram = true
+    Telegram = false
     Trello = false
     Tumblr = false
-    Twitter = true
+    Twitter = false 
     VK = false
-    Weibo = true
+    Weibo = false 
     # Weixin API example: "https://tenapi.cn/qr/?txt="
     # https://docs.tenapi.cn/qrcode.html
     # https://www.free-api.com/doc/531
@@ -310,7 +310,7 @@ bundle = false
     Weixin = ""
     Whatsapp = false
     Xing = false
-    Mastodon = true
+    Mastodon = false 
   # Comment config
   # 评论系统设置
   [page.comment]
@@ -400,7 +400,7 @@ bundle = false
     # Utterances comment config (https://utteranc.es/)
     # Utterances comment 评论系统设置 (https://utteranc.es/)
     [page.comment.utterances]
-      enable = true
+      enable = false 
       # owner/repo
       repo = "Hugo-DoIt/utterances-comments"
       issueTerm = "pathname"

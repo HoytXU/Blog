@@ -167,7 +167,7 @@ keywords = ["HoytXU", "Blog"]
   Thingiverse = ""
   Tumblr = ""
   Twitch = ""
-  Twitter = ""
+  Twitter = "@iridesparadox"
   Vine = ""
   VK = ""
   Weibo = ""
@@ -175,10 +175,13 @@ keywords = ["HoytXU", "Blog"]
   Wordpress = ""
   Xing = ""
   XMPP = ""
-  Youtubechannel = ""
+  Youtubechannel = "../@iridesparadox"
   Youtubecustom = ""
   Youtubelegacy = ""
   Zhihu = ""
+  [social.Notion]
+    id = ""
+    prefix = "https://twisty-rule-ef8.notion.site/2a001c8b88e44ecab7def1e35e36fd73"
 #  [social.Mastodon]
 #    id = "@xxxx"
 #    prefix = "https://mastodon.technology/"
